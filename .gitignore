@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated embeddings and indexes
+target/embeddings/
+target/indexes/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

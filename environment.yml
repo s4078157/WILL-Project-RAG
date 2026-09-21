@@ -1,0 +1,6 @@
+name: will-rag
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\alexa\anaconda3\envs\will-rag
