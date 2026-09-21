@@ -1,4 +1,3 @@
-````md
 # WILL Project RAG
 
 ## Group ID
@@ -124,5 +123,5 @@ Lead
 → Merge to Main
 ```
 The `main` branch will be kept as the stable working version of the project
-```
-```
+
+
