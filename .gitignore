@@ -20,3 +20,10 @@ target/indexes/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Raw research papers
+data/raw/*.pdf
+
+# Extracted research text
+data/processed/*.txt
+data/processed/clean/*.txt

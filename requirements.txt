@@ -1,1 +1,1 @@
-# Project dependencies will be added as development progresses
+# Project dependencies will be added as development progressespypdf==6.19.0
