@@ -27,8 +27,8 @@ data/raw/*.pdf
 # Extracted research text
 data/processed/*.txt
 
-# Cleaned vertion
-"data/processed/clean/"
+# Cleaned research text
+data/processed/clean/
 
-# Chunking paper
-data/processed/clean/*.txtdata/metadata/chunks.jsonl
+# Generated chunk dataset
+data/metadata/chunks.jsonl
