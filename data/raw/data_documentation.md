@@ -132,3 +132,22 @@ Example Question:
 * Does it do more to improve cognitive performance to keep the smartphone in another room than to keep it on the desk or in a pocket?
 * Why does the simple fact of having a smartphone around reduce cognitive ability even if a person is not deliberately thinking about the phone?
 
+##### [P5] - Golmohammadi et al.
+
+Title: Attention and short-term memory during occupational noise exposure considering task difficulty
+
+Journal: Applied Acoustics
+
+Topic_tag: `occupational_noise_cognition`
+
+Reason Selected:
+
+This paper investigates how different workplace noise conditions affect attention and short-term memory while considering task difficulty. It is useful for the RAG because it examines how noise level, noise type, reaction time, memory errors, attention, and mental workload interact during cognitive tasks.
+
+Example Question:
+
+* How does occupational noise affect attention and short-term memory?
+* Are simple and difficult cognitive tasks affected differently by workplace noise?
+* Does noise level or noise type have a stronger effect on difficult tasks?
+* How does occupational noise affect reaction time?
+* Which workplace noise conditions were found to be more distracting?
