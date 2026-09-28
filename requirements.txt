@@ -7,3 +7,4 @@ transformers==4.46.3
 faiss-cpu==1.7.4
 openai==2.48.0
 python-dotenv==1.2.1
+streamlit==1.50.0
