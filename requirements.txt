@@ -1,6 +1,9 @@
 # Project dependencies will be added as development progressespypdf==6.19.0
 
+pypdf==6.19.0
 numpy==1.26.4
 torch==2.5.1
 transformers==4.46.3
 faiss-cpu==1.7.4
+openai==2.48.0
+python-dotenv==1.2.1
