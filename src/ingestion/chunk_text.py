@@ -90,8 +90,9 @@ def remove_references(page_text):
     #         - Text before the REFERENCES heading
     #         - True if the REFERENCES section was found
 
+    # Detect the bibliography heading regardless of capitalization
     reference_match = re.search(
-        r"(?m)^REFERENCES\s*$",
+        r"(?im)^REFERENCES\s*$",
         page_text,
     )
 
