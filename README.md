@@ -12,10 +12,10 @@
   Project Lead & RAG Architecture / Integration Developer
 
 - **Venkata Naga Sai Animish Kocharlakota — s4204426**  
-  Evaluation Lead
+  Prototype Developer
 
 - **Abhishek Sharma — s4023078**  
-  Research & Data Lead
+  Evaluation Lead
 
 ---
 
