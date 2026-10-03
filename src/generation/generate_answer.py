@@ -24,7 +24,7 @@ load_dotenv(PROJECT_ROOT / ".env")
 
 
 # Generation configuration
-MODEL = "gpt-5.6-terra" #fancyyyyyyyyyy
+MODEL = "gpt-5.6-sol" #fancyyyyyyyyyy
 TOP_K = 5
 MAX_OUTPUT_TOKENS = 700
 
