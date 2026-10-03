@@ -1,0 +1,11 @@
+question_id,question,expected_paper_id,top1_paper_id,top1_correct,top5_hit,first_relevant_rank,relevant_chunks_in_top5,rank1_paper,rank2_paper,rank3_paper,rank4_paper,rank5_paper
+Q01,How does chronic sleep restriction affect cognitive performance over time?,P01,P01,Yes,Yes,1,5,P01,P01,P01,P01,P01
+Q02,Do people accurately notice how impaired they become during chronic sleep restriction?,P01,P01,Yes,Yes,1,4,P01,P01,P05,P01,P01
+Q03,What effect does a 60 mg dose of caffeine have on attention?,P02,P02,Yes,Yes,1,5,P02,P02,P02,P02,P02
+Q04,Which aspects of attention were measured after caffeine consumption?,P02,P02,Yes,Yes,1,5,P02,P02,P02,P02,P02
+Q05,How does blue-enriched light affect alertness and cognitive performance?,P03,P03,Yes,Yes,1,5,P03,P03,P03,P03,P03
+Q06,What effect does blue-enriched light have on melatonin levels?,P03,P03,Yes,Yes,1,5,P03,P03,P03,P03,P03
+Q07,How does the mere presence of a smartphone affect cognitive capacity?,P04,P04,Yes,Yes,1,5,P04,P04,P04,P04,P04
+Q08,Does smartphone location influence available cognitive capacity?,P04,P04,Yes,Yes,1,5,P04,P04,P04,P04,P04
+Q09,How does occupational noise affect attention and short-term memory?,P05,P05,Yes,Yes,1,5,P05,P05,P05,P05,P05
+Q10,Are difficult cognitive tasks affected differently by workplace noise than simple tasks?,P05,P05,Yes,Yes,1,5,P05,P05,P05,P05,P05

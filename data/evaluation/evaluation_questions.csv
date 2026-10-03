@@ -1,0 +1,11 @@
+question_id,question,expected_paper_id,question_type,ground_truth_notes
+Q01,How does chronic sleep restriction affect cognitive performance over time?,P01,answerable,
+Q02,Do people accurately notice how impaired they become during chronic sleep restriction?,P01,answerable,
+Q03,What effect does a 60 mg dose of caffeine have on attention?,P02,answerable,
+Q04,Which aspects of attention were measured after caffeine consumption?,P02,answerable,
+Q05,How does blue-enriched light affect alertness and cognitive performance?,P03,answerable,
+Q06,What effect does blue-enriched light have on melatonin levels?,P03,answerable,
+Q07,How does the mere presence of a smartphone affect cognitive capacity?,P04,answerable,
+Q08,Does smartphone location influence available cognitive capacity?,P04,answerable,
+Q09,How does occupational noise affect attention and short-term memory?,P05,answerable,
+Q10,Are difficult cognitive tasks affected differently by workplace noise than simple tasks?,P05,answerable,
